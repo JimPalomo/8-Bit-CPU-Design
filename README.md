@@ -27,3 +27,6 @@ Hardware Includes (on CircuitVerse):
 ### Links:
 CircuitVerse:https://circuitverse.org/users/49995/projects/project-3-isa-design
 Example: https://www.youtube.com/watch?v=RC1vLbMcaoY
+
+### Top Level of Design:
+![alt text](https://github.com/JimPalomo/8-Bit-CPU-Design/blob/main/assets/sample-1.png)
