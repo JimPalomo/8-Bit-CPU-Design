@@ -5,7 +5,7 @@ The project consisted of a custom ASIC-style CPU. Working under a team, I was in
 
 > See report.pdf for further examples
 
-### Functionality
+### Functionality:
 Goals accomplished (problem prompt): 
 I. Generate array A1 - A100 following the logic of (A + B) xor C
 II. Generate width W1 - W100 [e.g. 01101100 = 5]
@@ -24,6 +24,6 @@ Hardware Includes (on CircuitVerse):
 - 64 Byte ROM for instruction memory (IM) [though we only used 16 Bytes to accomplish our goal]
 - Integration of CPU's datapath
 
-### Links
+### Links:
 CircuitVerse:https://circuitverse.org/users/49995/projects/project-3-isa-design
 Example: https://www.youtube.com/watch?v=RC1vLbMcaoY
