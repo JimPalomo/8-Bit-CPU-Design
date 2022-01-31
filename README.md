@@ -25,8 +25,12 @@ Hardware Includes (on CircuitVerse):
 - Integration of CPU's datapath
 
 ### Links:
-CircuitVerse:https://circuitverse.org/users/49995/projects/project-3-isa-design
-Example: https://www.youtube.com/watch?v=RC1vLbMcaoY
+- CircuitVerse:https://circuitverse.org/users/49995/projects/project-3-isa-design
+- Example: https://www.youtube.com/watch?v=RC1vLbMcaoY
 
 ### Top Level of Design:
 ![alt text](https://github.com/JimPalomo/8-Bit-CPU-Design/blob/main/assets/sample-1.png)
+
+### Instruction Table:
+![alt text](https://github.com/JimPalomo/8-Bit-CPU-Design/blob/main/assets/sample-2.png)
+![alt text](https://github.com/JimPalomo/8-Bit-CPU-Design/blob/main/assets/sample-3.png)
